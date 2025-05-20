@@ -1,0 +1,1 @@
+// Register Page (React with validation)

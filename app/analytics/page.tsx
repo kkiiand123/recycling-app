@@ -1,0 +1,1 @@
+// Analytics page with chart placeholder

@@ -1,0 +1,1 @@
+// Product Card with PHP currency and image
